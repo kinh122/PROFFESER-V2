@@ -9,22 +9,17 @@ class script(object):
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/Proffeser_Z_bot"> 𝗣𝗥𝗢𝗙𝗙𝗘𝗦𝗘𝗥 </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a href="https://t.me/pro_editor_tg"> Lalluᵗᵍ </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="https://t.me/Proffeser_Z_bot"> ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋAsyn Editz </a>
+║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a> HAREESH M </a>
+║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a HAREESH M  </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ║┣⪼ 𝓑𝓸𝓽 𝓼𝓮𝓻𝓿𝓮𝓻 -  𝙷𝙴𝚁𝙾𝙺𝚄
 ║┣⪼ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
-║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 𝗣𝗥𝗢𝗙𝗙𝗘𝗦𝗘𝗥 V1
-- V2 IS CLOSED SOURCE 😉
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/madtoazenzio/PROFFESER"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪""
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/Proffeser_Z_bot"> 𝑻𝑬𝑨𝑴 Z_Bots </a>"""
+<a href="https://t.me/hareesh"> 𝑻𝑬𝑨𝑴 Z_Bots </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
